@@ -4,6 +4,7 @@ import java.util.concurrent.CountDownLatch;
 
 /**
  * 闭锁CountDownLatch例子
+ * 只能使用一次
  *
  * @Author RUANWENJUN
  * @Creat 2018-09-27 19:40

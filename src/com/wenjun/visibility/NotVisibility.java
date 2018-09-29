@@ -3,7 +3,7 @@ package com.wenjun.visibility;
 
 
 /**
- * 不可见的例子
+ * 可见性的例子
  *
  * @Author RUANWENJUN
  * @Creat 2018-09-27 14:16
