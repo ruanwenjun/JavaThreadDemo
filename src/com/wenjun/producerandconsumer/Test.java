@@ -1,4 +1,4 @@
-package com.wenjun.ProducerAndConsumer;
+package com.wenjun.producerandconsumer;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

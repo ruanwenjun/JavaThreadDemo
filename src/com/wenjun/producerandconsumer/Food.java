@@ -1,4 +1,4 @@
-package com.wenjun.ProducerAndConsumer;
+package com.wenjun.producerandconsumer;
 
 /**
  * 食物类

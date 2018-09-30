@@ -1,4 +1,4 @@
-package com.wenjun.Synchronized;
+package com.wenjun.synchronizeddemo;
 
 /**
  *
