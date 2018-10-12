@@ -1,4 +1,4 @@
-package com.wenjun.ChapterTwo;
+package com.wenjun.lock;
 
 /**
  * 内部锁Synchronized

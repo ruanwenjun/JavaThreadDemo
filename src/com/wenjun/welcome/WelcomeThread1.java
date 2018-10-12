@@ -1,4 +1,4 @@
-package com.wenjun.ChapterOne;
+package com.wenjun.welcome;
 
 /**
  * 使用继承Thread类来创建线程

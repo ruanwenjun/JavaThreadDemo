@@ -1,4 +1,4 @@
-package com.wenjun.ChapterTwo;
+package com.wenjun.lock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -23,6 +23,7 @@ public class ReentrantLockDemo {
                 System.out.println(num);
             }
         }finally {
+            // 在finally块中释放锁
             lock.unlock();
         }
     }

@@ -1,4 +1,4 @@
-package com.wenjun.ChapterOne;
+package com.wenjun.welcome;
 
 /**
  * 使用创建Runnable接口实例的方式创建线程

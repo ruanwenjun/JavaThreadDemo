@@ -1,4 +1,4 @@
-package com.wenjun.ChapterOne;
+package com.wenjun.welcome;
 
 /**
  * 模拟多线程下载多个文件
